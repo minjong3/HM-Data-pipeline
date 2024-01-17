@@ -50,7 +50,7 @@
    
 ![image](https://github.com/yeardream-de-project-team11/project-team11/assets/104144701/599d8a4a-4499-4121-a609-efc6966a3728)
 
-### 프로젝트 세부정보
+### 프로젝트 세부 사항
 
 1. EMR 단계를 추가해 Spark로 parquet 형식으로 S3에 적재
 2. EMR을 Airflow Scheduler Sensor를 활용해 시간과 순서대로 데이터를 파티셔닝 후 S3에 적재-> Slack에 성공 여부 알림
