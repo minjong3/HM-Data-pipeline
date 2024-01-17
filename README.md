@@ -52,11 +52,11 @@
 
 ### 프로젝트 세부정보
 
-![image](https://github.com/minjong3/minjong3/assets/131952523/d63a9a92-4a5d-4035-aa79-12b80c9b49d8) ![image](https://github.com/minjong3/minjong3/assets/131952523/6533fff3-773f-4977-8159-ba7771f256c7) ![image](https://github.com/minjong3/minjong3/assets/131952523/afafedfa-3e48-4f53-b68c-c9c673b9309c) ![image](https://github.com/minjong3/minjong3/assets/131952523/396c04c1-7de9-488a-baaa-decac7c5ec95) ![image](https://github.com/minjong3/minjong3/assets/131952523/43864339-a603-4557-88a3-202bcf78d412) ![image](https://github.com/minjong3/minjong3/assets/131952523/b782b799-3ae2-47e3-b869-9c905aa55bd7)
-
 1. EMR 단계를 추가해 Spark로 parquet 형식으로 S3에 적재
 2. EMR을 Airflow Scheduler Sensor를 활용해 시간과 순서대로 데이터를 파티셔닝 후 S3에 적재-> Slack에 성공 여부 알림
 3. Airflow Scheduler로 Athena에 쿼리를 통해 무결성과 중복값을 확인 후 -> Slack에 성공 여부 및 테스트 결과값 알림
+
+![image](https://github.com/minjong3/minjong3/assets/131952523/d63a9a92-4a5d-4035-aa79-12b80c9b49d8) ![image](https://github.com/minjong3/minjong3/assets/131952523/6533fff3-773f-4977-8159-ba7771f256c7) ![image](https://github.com/minjong3/minjong3/assets/131952523/afafedfa-3e48-4f53-b68c-c9c673b9309c) ![image](https://github.com/minjong3/minjong3/assets/131952523/396c04c1-7de9-488a-baaa-decac7c5ec95) ![image](https://github.com/minjong3/minjong3/assets/131952523/43864339-a603-4557-88a3-202bcf78d412) ![image](https://github.com/minjong3/minjong3/assets/131952523/b782b799-3ae2-47e3-b869-9c905aa55bd7)
 
 ### 프로젝트 리뷰
 
