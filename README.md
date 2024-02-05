@@ -1,7 +1,7 @@
-# H&M 데이터 파이프라인 구축
+# AWS를 활용한 H&M 데이터 파이프라인 구축
 ---
 
-- H&M 데이터 파이프라인 구축   <a href="https://github.com/yeardream-de-project-team11/project-team11">.[🔗 링크]</a>
+- AWS를 활용한 H&M 데이터 파이프라인 구축   <a href="https://github.com/yeardream-de-project-team11/project-team11">.[🔗 링크]</a>
 
 이번 프로젝트의 코드는 위 링크에 Wiki에 정리해 두었습니다.
 
